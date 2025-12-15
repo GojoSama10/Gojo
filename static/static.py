@@ -1,6 +1,8 @@
 HTML = """
-The girl was wearing a denim jacket over a denim shirt and denim jeans
-I was about to give up but then i went to school again
-I'll walk in front of you because i love you
-The sun it's blu and the flower is always too good like us baby
+And you will never know
+I will never show
+What I feel, what I need from you, no
+And you will never know
+I will never show
+What I feel, what I need from you
 """
